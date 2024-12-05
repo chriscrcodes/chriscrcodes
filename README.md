@@ -54,7 +54,7 @@ My focus is on transforming industries through data-driven strategies, hybrid cl
 
 ## Top Projects
 
-- [Talk to Your Factory](https://github.com/chriscrcodes/talk-to-your-factory): A demo leveraging Edge (Azure IoT Operations), Cloud (Microsoft Fabric), and an AI-powered Factory Agent to streamline factory operations. ⭐️ 9 Stars, Python, 3 Forks
+- [Talk to Your Factory](https://github.com/chriscrcodes/talk-to-your-factory): A demo leveraging Edge (Azure IoT Operations), Cloud (Microsoft Fabric), and an AI-powered Factory Agent to streamline factory operations.
 
 ## GitHub Stats
 
