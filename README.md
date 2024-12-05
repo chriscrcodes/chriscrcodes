@@ -20,13 +20,6 @@ My focus is on transforming industries through data-driven strategies, hybrid cl
   </a>
 </div>
 
-## My Talks
-
-- **The IoT Show** hosted by `Olivier Bloch`  
-[![The IoT Show](https://img.youtube.com/vi/-AxWwJU_G_U/hqdefault.jpg)](https://www.youtube.com/embed/-AxWwJU_G_U)
-- **Azure Arc Jumpstart** hosted by `Lior Kamrat`  
-[![Arc Jumpstart](https://img.youtube.com/vi/cN6urmB_7jY/hqdefault.jpg)](https://www.youtube.com/embed/cN6urmB_7jY)
-
 ## Skills & Technologies
 
 <div align="left">
@@ -52,14 +45,17 @@ My focus is on transforming industries through data-driven strategies, hybrid cl
 - [Azure Databricks Platform Architect](https://credentials.databricks.com/11e6140c-30c6-4666-9db9-9a65eb9b17ca)
 - [HashiCorp Certified: Terraform Associate](https://www.youracclaim.com/badges/819d7b25-e1b8-4038-a563-7d4516cb9310/linked_in_profile)
 
+## My Talks
+
+- **The IoT Show** hosted by `Olivier Bloch`  
+[![The IoT Show](https://img.youtube.com/vi/-AxWwJU_G_U/hqdefault.jpg)](https://www.youtube.com/embed/-AxWwJU_G_U)
+- **Azure Arc Jumpstart** hosted by `Lior Kamrat`  
+[![Arc Jumpstart](https://img.youtube.com/vi/cN6urmB_7jY/hqdefault.jpg)](https://www.youtube.com/embed/cN6urmB_7jY)
+
 ## Top Projects
 
 - [Talk to Your Factory](https://github.com/chriscrcodes/talk-to-your-factory): A demo leveraging Edge (Azure IoT Operations), Cloud (Microsoft Fabric), and an AI-powered Factory Agent to streamline factory operations. ⭐️ 9 Stars, Python, 3 Forks
 
 ## GitHub Stats
-
-🌟 **Public Repositories:** 34
-👥 **Followers:** 11
-👤 **Following:** 27
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriscrcodes&show_icons=true&theme=radical)
