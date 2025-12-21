@@ -1,16 +1,21 @@
 ## Hi there! 👋
 
-I'm Christophe Crémon, a Solutions Architect & Offering Lead specializing in the Industry of the Future.
-
-As a Microsoft MVP, I strive to contribute to the tech community and share knowledge.
-
-With over 20 years of experience in IT and Cloud computing, I am a seasoned expert in Microsoft Cloud Technologies, particularly Azure, Data, and AI solutions.
+I’m Christophe, Lead Solutions Architect with 20 + years of technology leadership.  
+As a Microsoft MVP, I specialize in building data‑centric intelligence and Agentic AI solutions that span Azure Edge‑to‑Cloud environments.
 
 ## About Me
 
-Based in Paris, France, I currently work at [Avanade](https://www.avanade.com).
+Based in Paris, France, I currently work at [Avanade](https://www.avanade.com).  
 
-My focus is on transforming industries through data-driven strategies, hybrid cloud architectures, and AI-driven insights in smart manufacturing, operations, and supply chains, helping organizations fully harness the potential of digital transformation.
+💡 What I Do
+- Advise C‑suite & engineering teams on strategy & ROI
+- Design scalable Azure architectures
+- Build AI‑enabled solutions
+
+🤝 My Passion
+- Translating complex tech into clear business value
+- Fostering cross‑functional collaboration
+- Delivering measurable outcomes on time and budget
 
 ## Connect with Me
 
@@ -40,7 +45,7 @@ My focus is on transforming industries through data-driven strategies, hybrid cl
 
 ## Certifications
 
-- Microsoft MVP: [Badge](https://www.credly.com/badges/1f6f2423-2230-4e84-9113-686f176ca314/public_url) / [Profile](https://mvp.microsoft.com/en-US/MVP/profile/f25e2f9a-6a98-4f17-ae88-841151646877)
+- [Microsoft MVP](https://www.credly.com/badges/82d3ae66-7c0e-4362-b0f4-fcbf35f1f4b8/linked_in_profile)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/christophecremon/D222BF438855975F?sharingId=454637B33FF13E6E)
 - [Azure Databricks Platform Architect](https://credentials.databricks.com/11e6140c-30c6-4666-9db9-9a65eb9b17ca)
 - [HashiCorp Certified: Terraform Associate](https://www.youracclaim.com/badges/819d7b25-e1b8-4038-a563-7d4516cb9310/linked_in_profile)
@@ -59,3 +64,4 @@ My focus is on transforming industries through data-driven strategies, hybrid cl
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriscrcodes&show_icons=true&theme=radical)
+
