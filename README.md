@@ -5,7 +5,7 @@ As a Microsoft MVP, I specialize in building data‑centric intelligence and Age
 
 ## About Me
 
-Based in Paris, France, I currently work at [Avanade](https://www.avanade.com).  
+Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoint.com/).  
 
 💡 What I Do
 - Advise C‑suite & engineering teams on strategy & ROI
@@ -64,4 +64,5 @@ Based in Paris, France, I currently work at [Avanade](https://www.avanade.com).
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriscrcodes&show_icons=true&theme=radical)
+
 
