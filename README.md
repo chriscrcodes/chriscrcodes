@@ -52,10 +52,10 @@ Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoin
 
 ## My Talks
 
-- **The IoT Show** hosted by `Olivier Bloch`  
+- **The IoT Show - Talk to your Factory** hosted by `Olivier Bloch`  
 [![The IoT Show](https://img.youtube.com/vi/-AxWwJU_G_U/hqdefault.jpg)](https://www.youtube.com/embed/-AxWwJU_G_U)
-- **Azure Arc Jumpstart** hosted by `Lior Kamrat`  
-[![Arc Jumpstart](https://img.youtube.com/vi/cN6urmB_7jY/hqdefault.jpg)](https://www.youtube.com/embed/cN6urmB_7jY)
+- **Global AI Community France - L'IA Agentique Révolutionne les Industries** hosted by `Paul Peton`  
+[![Global AI Community France](https://img.youtube.com/vi/gsHdXSVlUtg/hqdefault.jpg)](https://www.youtube.com/embed/gsHdXSVlUtg)
 
 ## Top Projects
 
@@ -64,5 +64,6 @@ Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoin
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriscrcodes&show_icons=true&theme=radical)
+
 
 
