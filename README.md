@@ -1,21 +1,25 @@
 ## Hi there! 👋
 
-I’m Christophe, Lead Solutions Architect with 20 + years of technology leadership.  
-As a Microsoft MVP, I specialize in building data‑centric intelligence and Agentic AI solutions that span Azure Edge‑to‑Cloud environments.
+I build the brains, not just the bots 🧠  
+With 20+ years of tech leadership and a Microsoft MVP award, I apply decades of architectural expertise to the frontier of Agentic AI.
+
+I specialize in moving organizations beyond basic RAG and chatbots toward autonomous, goal-oriented systems 🚀
+
+By leveraging secure AI Landing Zones, I ensure these ecosystems are resilient, scalable, and engineered to drive measurable business outcomes 🏗️
 
 ## About Me
 
 Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoint.com/).  
 
 💡 What I Do
-- Advise C‑suite & engineering teams on strategy & ROI
-- Design scalable Azure architectures
-- Build AI‑enabled solutions
+- Advise C-suite & engineering teams on Generative AI strategy, governance, and ROI.
+- Design scalable Agentic architectures that move beyond passive chat into autonomous action.
+- Build AI-enabled solutions and enterprise foundations using Azure AI Landing Zones.
 
 🤝 My Passion
-- Translating complex tech into clear business value
-- Fostering cross‑functional collaboration
-- Delivering measurable outcomes on time and budget
+- Translating complex Agentic AI into clear, actionable business value.
+- Fostering cross-functional collaboration to bridge the gap between AI research and production.
+- Delivering measurable outcomes by scaling Generative AI on time and on budget.
 
 ## Connect with Me
 
@@ -64,6 +68,7 @@ Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoin
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriscrcodes&show_icons=true&theme=radical)
+
 
 
 
