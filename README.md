@@ -64,11 +64,3 @@ Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoin
 ## Top Projects
 
 - [Talk to Your Factory](https://github.com/chriscrcodes/talk-to-your-factory): A demo leveraging Edge (Azure IoT Operations), Cloud (Microsoft Fabric), and an AI-powered Factory Agent to streamline factory operations.
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chriscrcodes&show_icons=true&theme=radical)
-
-
-
-
