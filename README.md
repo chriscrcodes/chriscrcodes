@@ -1,25 +1,28 @@
 ## Hi there! 👋
 
-I build the brains, not just the bots 🧠  
-With 20+ years of tech leadership and a Microsoft MVP award, I apply decades of architectural expertise to the frontier of Agentic AI.
+I build the brains, not just the bots 🧠 
+I turn Generative AI into autonomous, goal-driven systems that deliver real business results.
 
-I specialize in moving organizations beyond basic RAG and chatbots toward autonomous, goal-oriented systems 🚀
-
-By leveraging secure AI Landing Zones, I ensure these ecosystems are resilient, scalable, and engineered to drive measurable business outcomes 🏗️
+A Microsoft MVP and tech leader with 20+ years of experience, I bring enterprise-grade architectural rigor to the frontier of Agentic AI — helping organizations move beyond retrieval-augmented chat to human-like agents that act, learn, and adapt.
 
 ## About Me
 
 Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoint.com/).  
 
-💡 What I Do
-- Advise C-suite & engineering teams on Generative AI strategy, governance, and ROI.
-- Design scalable Agentic architectures that move beyond passive chat into autonomous action.
-- Build AI-enabled solutions and enterprise foundations using Azure AI Landing Zones.
+🚀 What I Do  
+- Advise C‑suite & engineering teams on GenAI strategy, governance, and ROI. 
+- Design scalable Agentic architectures grounded in secure AI Landing Zones, accelerated by Microsoft Foundry, using Microsoft’s Agent Framework and LangGraph to orchestrate autonomous, enterprise-ready agents. 
+- Build secure, production‑ready AI foundations that bridge the gap between experiments and enterprise systems.
 
-🤝 My Passion
-- Translating complex Agentic AI into clear, actionable business value.
-- Fostering cross-functional collaboration to bridge the gap between AI research and production.
-- Delivering measurable outcomes by scaling Generative AI on time and on budget.
+💡 My Passion  
+Bridging AI research and production — translating complex Agentic AI into measurable business value while fostering collaboration and delivering outcomes that scale reliably.
+
+🧰 Technical Toolbox  
+- Cloud: Microsoft Azure, Microsoft Foundry, AKS 
+- Agentic AI: Microsoft Agent Framework, LangGraph, Agno, RAG, MCP, A2A 
+- Data & Analytics: Microsoft Fabric (RTI, Fabric IQ), Databricks, Cosmos DB, SQL, Grafana, Power BI 
+- Edge & IoT: Azure Arc, IoT Operations, IoT Hub/Edge, Litmus, Digital Twins 
+- DevOps: GitHub, Azure DevOps, Terraform, Ansible, Scrum
 
 ## Connect with Me
 
@@ -64,3 +67,4 @@ Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoin
 ## Top Projects
 
 - [Talk to Your Factory](https://github.com/chriscrcodes/talk-to-your-factory): A demo leveraging Edge (Azure IoT Operations), Cloud (Microsoft Fabric), and an AI-powered Factory Agent to streamline factory operations.
+
