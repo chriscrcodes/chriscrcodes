@@ -1,9 +1,10 @@
 ## Hi there! 👋
 
-I build the brains, not just the bots 🧠 
-I turn Generative AI into autonomous, goal-driven systems that deliver real business results.
+I build the brains, not just the bots 🧠
 
-A Microsoft MVP and tech leader with 20+ years of experience, I bring enterprise-grade architectural rigor to the frontier of Agentic AI — helping organizations move beyond retrieval-augmented chat to human-like agents that act, learn, and adapt.
+Forward Deployed Engineer focused on Hypervelocity Engineering, embedding directly with teams to turn Generative AI into autonomous, goal-driven systems that ship fast and scale securely.
+
+Microsoft MVP with 20+ years in enterprise architecture, I work at the edge of Agentic AI, platform engineering, and real-world constraints — helping organizations move beyond demos and RAG chatbots to production-grade agents that act, adapt, and deliver measurable outcomes.
 
 ## About Me
 
@@ -16,13 +17,6 @@ Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoin
 
 💡 My Passion  
 Bridging AI research and production — translating complex Agentic AI into measurable business value while fostering collaboration and delivering outcomes that scale reliably.
-
-🧰 Technical Toolbox  
-- Cloud: Microsoft Azure, Microsoft Foundry, AKS 
-- Agentic AI: Microsoft Agent Framework, LangGraph, Agno, RAG, MCP, A2A 
-- Data & Analytics: Microsoft Fabric (RTI, Fabric IQ), Databricks, Cosmos DB, SQL, Grafana, Power BI 
-- Edge & IoT: Azure Arc, IoT Operations, IoT Hub/Edge, Litmus, Digital Twins 
-- DevOps: GitHub, Azure DevOps, Terraform, Ansible, Scrum
 
 ## Connect with Me
 
