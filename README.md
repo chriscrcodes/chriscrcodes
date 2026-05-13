@@ -11,11 +11,12 @@ Microsoft MVP with 20+ years in enterprise architecture, I work at the edge of A
 Based in Paris, France, I currently work at [Onepoint](https://www.groupeonepoint.com/).  
 
 🚀 What I Do  
-- Advise C‑suite & engineering teams on GenAI strategy, governance, and ROI. 
-- Design scalable Agentic architectures grounded in secure AI Landing Zones, accelerated by Microsoft Foundry, using Microsoft’s Agent Framework and LangGraph to orchestrate autonomous, enterprise-ready agents. 
+- Advise C‑suite & engineering teams on GenAI strategy, governance, and ROI.
+- Design scalable Agentic architectures grounded in secure AI Landing Zones to orchestrate autonomous, enterprise-ready agents.
 - Build secure, production‑ready AI foundations that bridge the gap between experiments and enterprise systems.
 
 💡 My Passion  
+
 Bridging AI research and production — translating complex Agentic AI into measurable business value while fostering collaboration and delivering outcomes that scale reliably.
 
 ## Connect with Me
