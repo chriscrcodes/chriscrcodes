@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-I build the brains, not just the bots 🧠
+I build AI agents that survive production 🧠
+ 
+Forward Deployed Engineer embedding directly with teams to turn Generative AI into autonomous, goal-driven systems that ship fast and scale securely. 
 
-Forward Deployed Engineer focused on Hypervelocity Engineering, embedding directly with teams to turn Generative AI into autonomous, goal-driven systems that ship fast and scale securely.
-
-Microsoft MVP with 20+ years in enterprise architecture, I work at the edge of Agentic AI, platform engineering, and real-world constraints — helping organizations move beyond demos and RAG chatbots to production-grade agents that act, adapt, and deliver measurable outcomes.
+Microsoft MVP with 20+ years in enterprise architecture — helping organizations move beyond demos to production-grade agents that act, adapt, and deliver measurable outcomes.
 
 ## About Me
 
