@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I build AI agents that survive production 🚀
+I build AI agents that survive production.
  
 Forward Deployed Engineer embedding directly with teams to turn Generative AI into autonomous, goal-driven systems that ship fast and scale securely. 
 
