@@ -2,7 +2,7 @@
 
 Forward Deployed Engineer embedding directly with teams to turn Generative AI into autonomous, goal-driven systems that ship fast and scale securely. 
 
-Microsoft MVP Alumni with 20+ years in enterprise architecture — helping organizations move beyond demos to production-grade agents that act, adapt, and deliver measurable outcomes.
+Former Microsoft MVP with 20+ years in enterprise architecture — helping organizations move beyond demos to production-grade agents that act, adapt, and deliver measurable outcomes.
 
 ## About Me
 
